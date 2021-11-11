@@ -1,0 +1,8 @@
+
+fbprophet @ file:///D:/bld/fbprophet_1599365958928/work
+plotly==5.3.1
+streamlit @ file:///home/conda/feedstock_root/build_artifacts/streamlit_1620159617620/work
+yfinance==0.1.64
+datetime
+
+
